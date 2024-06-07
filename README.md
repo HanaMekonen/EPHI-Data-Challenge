@@ -1,1 +1,2 @@
 # EPHI-Data-Challenge
+In this data challenge, Child Health and Mortality Prevention Surveillance (CHAMPS) dataset has been provided. The purpose of the CHAMPS Surveillance dataset was to collect, analyze, and share data to help identify the causes of child deaths in areas with high child mortality. For the child mortality dataset, there are underlying cause of death from the infant side and also maternal factors contributing to this death. Based on the provided data, certain analyses have been conducted
